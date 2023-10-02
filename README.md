@@ -2,8 +2,9 @@
 - 💞️ I’m looking to collaborate on ...Projects which challenges my knowledge and pushes me to learn more.
 - 📫 How to reach me dhruvchandak5@gmail.com
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvchandak30)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvchandak30&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvchandak30)](https://github.com/anuraghazra/github-readme-stats)
 <div >
 	<code><img width="80" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="80" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
