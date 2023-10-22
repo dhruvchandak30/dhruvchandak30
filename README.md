@@ -18,6 +18,9 @@
 	<code><img width="80" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
 	<code><img width="80" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 </div>
+COmpleted HacktoberFest 2023
+
+[![An image of @dhruvchandak30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvchandak30)](https://holopin.io/@dhruvchandak30)
 <!---
 dhruv302003/dhruv302003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
