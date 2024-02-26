@@ -13,6 +13,10 @@
 </div>
 <hr>
 <div>
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<hr>
+<div>
 	
 <p>Completed HacktoberFest 2023</p>
 <p>In Top 50,000 Participants, Made 5 PR's which led to a Tree being planted in my name.</p>
