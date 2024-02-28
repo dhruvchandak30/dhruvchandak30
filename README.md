@@ -13,7 +13,8 @@
 </div>
 <hr>
 <div>
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvchandak30&layout=compact"></img>
+<!-- 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 <hr>
 <div>
