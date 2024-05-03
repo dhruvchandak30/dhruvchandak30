@@ -19,8 +19,8 @@
 <hr>
 <div>
 	
-<p>Completed HacktoberFest 2023</p>
-<p>In Top 50,000 Participants, Made 5 PR's which led to a Tree being planted in my name.</p>
+<h1>Completed HacktoberFest 2023</h1>
+<h3>In Top 50,000 Participants, Made 5 PR's which led to a Tree being planted in my name.</h3>
 
 [![An image of @dhruvchandak30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvchandak30)](https://holopin.io/@dhruvchandak30)
 </div>
