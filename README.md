@@ -14,7 +14,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&color=05122A&labelColor=05122A)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white&color=05122A&labelColor=05122A)
 ![API](https://img.shields.io/badge/-API-FF5700?style=flat&color=05122A&labelColor=05122A)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white&color=05122A&labelColor=05122A)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
