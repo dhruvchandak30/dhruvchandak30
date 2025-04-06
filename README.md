@@ -1,49 +1,71 @@
-- 👋 Hi, I’m Dhruv Chandak
-- 💞️ I’m looking to collaborate on ...Projects which challenges my knowledge and pushes me to learn more.
-- 📫 How to reach me dhruvchandak5@gmail.com
+## 👋 Hi, I’m Dhruv Chandak
 
+💡 I love building intelligent, scalable systems and collaborating on projects that push my limits.  
+📫 Reach me at: **dhruvchandak5@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvchandak30&show_icons=true&theme=radical)
+---
 
-<hr>
-<div >
-🛠 &nbsp;Tech Stack
+### 📊 GitHub Stats
 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&color=05122A&labelColor=05122A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&color=05122A&labelColor=05122A)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&color=05122A&labelColor=05122A)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white&color=05122A&labelColor=05122A)
-![API](https://img.shields.io/badge/-API-FF5700?style=flat&color=05122A&labelColor=05122A)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=000000)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvchandak30&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvchandak30&layout=compact&theme=tokyonight" width="48%" />
 </div>
-<hr>
-<div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvchandak30&layout=compact"></img>
-<!-- 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
-</div>
-<hr>
-<div>
-	
-<h1>Completed HacktoberFest 2023</h1>
-<h3>In Top 50,000 Participants, Made 5 PR's which led to a Tree being planted in my name.</h3>
 
-[![An image of @dhruvchandak30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvchandak30)](https://holopin.io/@dhruvchandak30)
+---
+
+### 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 </div>
-<!---
-dhruv302003/dhruv302003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-FF5700?style=flat&color=gray&logo=fastapi&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" />
+</div>
+
+
+---
+
+### 🌳 HacktoberFest 2023
+
+- ✅ Successfully completed HacktoberFest 2023
+- 🏅 Among the **Top 50,000 Participants**
+- 🌱 Contributed 5 PRs → A tree was planted in my name
+
+[![Holopin Badges](https://holopin.me/dhruvchandak30)](https://holopin.io/@dhruvchandak30)
+
+---
+
+<!--
+✨ This README is a part of dhruv302003/dhruv302003 special repository.
+-->
